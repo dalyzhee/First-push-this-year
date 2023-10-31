@@ -1,0 +1,4 @@
+Name, Age, Score
+John, 25, 92
+Alice, 30, 88
+Bob, 22, 78
